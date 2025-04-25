@@ -2,6 +2,8 @@
 
 A simple JavaScript-based form validation project that ensures user inputs meet specific criteria. This project validates fields such as username, email, password, and password confirmation, providing real-time feedback for errors and success.
 
+Project is deployed at: https://form-validator-lake.vercel.app/
+
 <img src="./screenshot.png">
 
 ## Features
